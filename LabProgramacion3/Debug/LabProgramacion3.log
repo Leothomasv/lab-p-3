@@ -1,0 +1,26 @@
+﻿  Adittion.cpp
+  ArithmeticExpression.cpp
+  Division.cpp
+  Expression.cpp
+  Main.cpp
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\number.h(3): error C2011: 'Number': 'class' type redefinition
+  c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\number.h(3): note: see declaration of 'Number'
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\arithmeticexpression.h(4): error C2011: 'ArithmeticExpression': 'class' type redefinition
+  c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\arithmeticexpression.h(4): note: see declaration of 'ArithmeticExpression'
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\division.h(4): error C2504: 'ArithmeticExpression': base class undefined
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\division.h(8): error C3668: 'Division::getValue': method with override specifier 'override' did not override any base class methods
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\multiplication.h(4): error C2504: 'ArithmeticExpression': base class undefined
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\multiplication.h(7): error C3668: 'Multiplication::getValue': method with override specifier 'override' did not override any base class methods
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(11): error C2079: 'x' uses undefined class 'Number'
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(12): error C2079: 'y' uses undefined class 'Number'
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(13): error C2079: 'z' uses undefined class 'Number'
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(14): error C2664: 'Multiplication::Multiplication(Multiplication &&)': cannot convert argument 1 from 'int *' to 'Expression *'
+  c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(14): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(16): error C2664: 'Addition::Addition(Addition &&)': cannot convert argument 1 from 'int *' to 'Expression *'
+  c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\main.cpp(16): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Multiplication.cpp
+  Number.cpp
+  pch.cpp
+  Substraction.cpp
+  Generating Code...

@@ -115,7 +115,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Adittion.cpp" />
+    <ClCompile Include="ArithmeticExpression.cpp" />
+    <ClCompile Include="Division.cpp" />
+    <ClCompile Include="Expression.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Multiplication.cpp" />
+    <ClCompile Include="Number.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Substraction.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Addition.h" />
+    <ClInclude Include="ArithmeticExpression.h" />
+    <ClInclude Include="Division.h" />
+    <ClInclude Include="Expression.h" />
+    <ClInclude Include="Multiplication.h" />
+    <ClInclude Include="Number.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Substraction.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
