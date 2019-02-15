@@ -1,4 +1,4 @@
-#include "pch.h"
+
 #include "ArithmeticExpression.h"
 
 int ArithmeticExpression::getValue()

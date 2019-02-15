@@ -1,4 +1,4 @@
-
+#pragma once
 #include "Expression.h"
 class Number :public Expression
 {

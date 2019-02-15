@@ -1,4 +1,4 @@
-
+#pragma once
 #include "ArithmeticExpression.h"
 #include "Number.h"
 #include "Expression.h"

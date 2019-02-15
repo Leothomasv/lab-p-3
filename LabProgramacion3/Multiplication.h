@@ -1,4 +1,4 @@
-
+#pragma once
 #include "ArithmeticExpression.h"
 class Multiplication :public ArithmeticExpression
 {

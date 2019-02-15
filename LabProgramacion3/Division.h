@@ -1,4 +1,4 @@
-
+#pragma once
 #include "ArithmeticExpression.h"
 class Division :public ArithmeticExpression
 {

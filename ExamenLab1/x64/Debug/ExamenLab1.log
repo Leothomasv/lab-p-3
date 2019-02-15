@@ -1,0 +1,149 @@
+﻿  Berserk.cpp
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(10): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(11): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(12): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(13): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(15): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.cpp(4): error C2600: 'Berserk::Berserk': cannot define a compiler-generated special member function (must be declared in the class first)
+  Main.cpp
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(10): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(11): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(12): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(13): error C2059: syntax error: 'this'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\berserk.h(15): error C2238: unexpected token(s) preceding ';'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(25): error C2061: syntax error: identifier 'Sorceress'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(25): error C3329: syntax error: expected '}' not ')'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): error C2146: syntax error: missing ';' before identifier 'attack'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(27): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(27): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(27): error C2369: 'party': redefinition; different subscripts
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(27): error C2146: syntax error: missing ';' before identifier 'attack'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(28): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(28): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(28): error C2086: 'int party[3]': redefinition
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(28): error C2146: syntax error: missing ';' before identifier 'attack'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(29): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(29): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(29): error C2369: 'party': redefinition; different subscripts
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(26): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(29): error C2146: syntax error: missing ';' before identifier 'attack'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(31): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(34): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(37): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(40): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(43): error C2040: 'party': 'int' differs in levels of indirection from 'int [3]'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(43): error C2061: syntax error: identifier 'Sorceress'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(43): error C3329: syntax error: expected '}' not ')'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(43): error C2143: syntax error: missing ';' before '}'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(43): error C2059: syntax error: '}'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): error C2466: cannot allocate an array of constant size 0
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): error C2146: syntax error: missing ';' before identifier 'cast'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(45): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(45): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(45): error C2369: 'party': redefinition; different subscripts
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(45): error C2146: syntax error: missing ';' before identifier 'cast'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(46): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(46): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(46): error C2086: 'int party[3]': redefinition
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(46): error C2146: syntax error: missing ';' before identifier 'cast'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(47): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(47): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(47): error C2369: 'party': redefinition; different subscripts
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(47): error C2146: syntax error: missing ';' before identifier 'cast'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(49): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(52): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(55): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(58): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(61): error C2040: 'party': 'int' differs in levels of indirection from 'int [3]'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(61): error C2061: syntax error: identifier 'Sorceress'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(61): error C3329: syntax error: expected '}' not ')'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(61): error C2143: syntax error: missing ';' before '}'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(61): error C2059: syntax error: '}'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(62): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(62): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(62): error C2369: 'party': redefinition; different subscripts
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(62): error C2146: syntax error: missing ';' before identifier 'special'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(63): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(63): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(63): error C2086: 'int party[3]': redefinition
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(44): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(63): error C2146: syntax error: missing ';' before identifier 'special'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(64): error C2466: cannot allocate an array of constant size 0
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(64): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(64): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(64): error C2146: syntax error: missing ';' before identifier 'special'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(65): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(65): error C3613: missing return type after '->' ('int' assumed)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(65): error C2369: 'party': redefinition; different subscripts
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(64): note: see declaration of 'party'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(65): error C2146: syntax error: missing ';' before identifier 'special'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(67): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(70): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(72): error C2143: syntax error: missing ';' before '<<'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(72): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(74): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(76): error C2440: 'initializing': cannot convert from 'Knight *' to 'Character *'
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(76): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(77): error C2061: syntax error: identifier 'Sorceress'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(82): error C2059: syntax error: 'if'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(85): error C2143: syntax error: missing ';' before '<<'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(85): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(85): error C2086: 'int cout': redefinition
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(72): note: see declaration of 'cout'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(86): error C2059: syntax error: '}'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(86): error C2143: syntax error: missing ';' before '}'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(88): error C2143: syntax error: missing ';' before '{'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\charactertest.h(88): error C2447: '{': missing function header (old-style formal list?)
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(25): error C2065: 'Sorter': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(25): error C2062: type 'int' unexpected
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(26): error C2065: 'sorter': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(29): error C2065: 'sorter': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(31): error C2065: 'sorter': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(32): error C2065: 'sorter': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(36): error C3861: 'Sorceress': identifier not found
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(36): error C2440: 'initializing': cannot convert from 'initializer list' to 'std::vector<Character,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Character
+          ]
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(36): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(37): error C2065: 'Sorter': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(37): error C2275: 'Character': illegal use of this type as an expression
+  c:\users\leoth\source\repos\labprogramacion3\examenlab1\character.h(3): note: see declaration of 'Character'
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(37): error C3861: 's2': identifier not found
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(38): error C2065: 's2': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(41): error C2065: 's2': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(43): error C2065: 's2': undeclared identifier
+c:\users\leoth\source\repos\labprogramacion3\examenlab1\sortertest.h(43): fatal error C1003: error count exceeds 100; stopping compilation
+  Sorceress.cpp
+  Generating Code...
