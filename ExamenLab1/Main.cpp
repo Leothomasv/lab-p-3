@@ -10,7 +10,10 @@
 #include "CharacterTest.h"
 #include "SorterTest.h"
 
-#include <conio.h>
+
+using namespace std;
 int main{
 
-}
+	CharacterTest T;
+
+};

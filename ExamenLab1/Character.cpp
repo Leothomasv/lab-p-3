@@ -5,9 +5,9 @@ Character::Character() {
 
 }
 
-void Character::attack(Character dano) {
-	if (dano.hp > 0 && dano.def >= this->strength)
-		dano.hp = dano.hp - (this->strength - dano.def);
+void Character::attack(Character* dano) {
+	if (dano->hp > 0 && dano->def >= this->strength)
+		dano->hp = dano->hp - (this->strength - dano->def);
 }
 
 void Character::cast(Character Magia) {
@@ -19,4 +19,10 @@ void Character::special(Character vacio) {
 
 }
 
-bool Character :: operator > (Character )
+bool Character :: operator> (Character personaje) {
+	return this->hp > personaje.hp;
+}
+
+bool Character ::operator < (Character personaje) {
+	return this->hp < personaje.hp;
+}

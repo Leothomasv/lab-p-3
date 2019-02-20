@@ -1,14 +1,13 @@
 #pragma once
 #include "Character.h"
 
-#ifndef SORCERESS_H
-#define SORCERESS_H
 
-class Soreceress {
+class Soreceress : public Character {
 public:
+
 	Soreceress();
+	void Special(Character*);
 
 
 };
 
-#endif SORCERESS_H

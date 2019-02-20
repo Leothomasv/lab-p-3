@@ -1,11 +1,12 @@
 #pragma once
-#include "Character.h" 
+
+#include "Character.h"
+#include "Warrior.h"
 
 
-#ifndef BERSERK_H
-#define BERSERK_H
 
-class Berserk {
+
+class Berserk : public Warrior  {
 public:
 	this->attack = 80;
 	this->magic = 40;
@@ -13,7 +14,7 @@ public:
 	this->
 
 	Berserk();
-	void Special();
+	void Special(Character);
 };
 
-#endif 
+

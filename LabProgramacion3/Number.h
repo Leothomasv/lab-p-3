@@ -6,6 +6,10 @@ public:
 
 	Number operator+(Number);
 	Number operator-(Number);
+	//Nuevas operator
+	Number operator*(Number);
+	Number operator/(Number);
+
 	int value;
 	Number(int);
 	Number();

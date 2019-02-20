@@ -1,13 +1,12 @@
 #pragma once
 #include "Character.h"
 
-#ifndef KNIGHT_H
-#define KNIGHT_H
 
-class Knight {
+
+class Knight : public Character {
 public:
 	Knight();
-	void Special();
+	void Special(Character);
 };
 
-#endif
+

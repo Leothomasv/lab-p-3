@@ -10,15 +10,22 @@
 using namespace std;
 int main()
 {
-	Number x(2);
+	/*Number x(2);
 	Number y(2);
 	Number z(3);
 	Multiplication f(&y, &z);
 
 	Addition g(&x, &f);
 
-	cout << "[" << Multiplication(new Number(8), &g).getValue() <<"]"<< endl;
+	cout << "[" << Multiplication(new Number(8), &g).getValue() <<"]"<< endl;*/
 
+	Expression n;
+
+	cout << n.Trim("2 + 3 * 8");
+	 
+	
 	_getch();
+
+	
 
 }

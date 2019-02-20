@@ -22,3 +22,17 @@ Number Number::operator-(Number x)
 	Number result(this->getValue() - x.getValue());
 	return result;
 }
+
+//Nuevos operadores
+
+Number Number::operator*(Number x)
+{
+	Number result(this->getValue() * x.getValue());
+	return result;
+}
+
+Number Number::operator/(Number x)
+{
+	Number result(this->getValue() / x.getValue());
+	return result;
+}
