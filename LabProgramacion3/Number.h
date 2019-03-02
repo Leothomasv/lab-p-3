@@ -14,4 +14,5 @@ public:
 	Number(int);
 	Number();
 	int getValue() override;
+	string Stringify() override;
 };

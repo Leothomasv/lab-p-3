@@ -12,3 +12,7 @@ int Multiplication::getValue()
 {
 	return e->getValue()*i->getValue();
 }
+
+string Multiplication::Stringify() {
+	return "(" + this->e->Stringify() + "*" + this->i->Stringify() + ")";
+}

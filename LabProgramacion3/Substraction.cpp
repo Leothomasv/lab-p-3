@@ -11,3 +11,7 @@ int Substraction::getValue()
 {
 	return e->getValue() - i->getValue();
 }
+
+string Substraction::Stringify() {
+	return this->e->Stringify() + "-" + this->i->Stringify();
+}

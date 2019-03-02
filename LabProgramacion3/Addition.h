@@ -10,4 +10,5 @@ public:
 
 	Addition(Expression *, Expression *);
 	int getValue() override;
+	string Stringify() override;
 }; 

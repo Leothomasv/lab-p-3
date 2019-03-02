@@ -13,3 +13,7 @@ int Division::getValue()
 {
 	return e->getValue() / i->getValue();
 }
+
+string Division::Stringify() {
+	return "(" + this->e->Stringify() + "/" + this->i->Stringify() + ")";
+}

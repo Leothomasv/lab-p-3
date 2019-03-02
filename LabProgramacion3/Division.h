@@ -4,6 +4,7 @@ class Division :public ArithmeticExpression
 {
 public:
 	Division(Expression *, Expression *);
-
 	int getValue() override;
+
+	string Stringify() override;
 };
