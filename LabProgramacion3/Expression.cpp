@@ -6,6 +6,9 @@
 #include "Division.h"
 #include "Multiplication.h"
 #include <string>
+#include <fstream>
+#include <iostream>
+
 using namespace std;
 
 Expression::Expression()
@@ -153,3 +156,7 @@ bool Expression::isMultiplication(string _operacion) {
  string Expression::Stringify() {
 	 return " ";
  }
+
+ void Expression::Archivo() {
+	 
+}

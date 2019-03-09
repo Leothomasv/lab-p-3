@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{0D7FFABC-1630-416E-A1EC-DD2450D9E6A5}</ProjectGuid>
-    <RootNamespace>LabProgramacion3</RootNamespace>
+    <ProjectGuid>{80E5D99A-6154-4AB9-8445-22059E651892}</ProjectGuid>
+    <RootNamespace>Arduino</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -70,7 +70,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup />
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
@@ -78,7 +78,7 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
   </ItemDefinitionGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
@@ -115,28 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Adittion.cpp" />
-    <ClCompile Include="ArithmeticExpression.cpp" />
-    <ClCompile Include="Division.cpp" />
-    <ClCompile Include="Expression.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Multiplication.cpp" />
-    <ClCompile Include="Number.cpp" />
-    <ClCompile Include="pch.cpp" />
     <ClCompile Include="SerialCommunication.cpp" />
     <ClCompile Include="SerialPort.cpp" />
-    <ClCompile Include="Substraction.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Addition.h" />
-    <ClInclude Include="ArithmeticExpression.h" />
-    <ClInclude Include="Division.h" />
-    <ClInclude Include="Expression.h" />
-    <ClInclude Include="Multiplication.h" />
-    <ClInclude Include="Number.h" />
-    <ClInclude Include="pch.h" />
     <ClInclude Include="SerialPort.h" />
-    <ClInclude Include="Substraction.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

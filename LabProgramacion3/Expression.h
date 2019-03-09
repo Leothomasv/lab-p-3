@@ -10,6 +10,8 @@ public:
 
 	static string* split(string, char);
 	static string Trim(string);
+
+	void Archivo();
 	
 	static bool isNumber( string);
 	static bool isAddittion(string);

@@ -1,7 +1,5 @@
-﻿  Adittion.cpp
-  Expression.cpp
-  Main.cpp
-  Number.cpp
+﻿  Expression.cpp
+  SerialCommunication.cpp
   Generating Code...
-c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\expression.cpp(151): warning C4715: 'Expression::fromString': not all control paths return a value
+c:\users\leoth\source\repos\labprogramacion3\labprogramacion3\expression.cpp(154): warning C4715: 'Expression::fromString': not all control paths return a value
   LabProgramacion3.vcxproj -> C:\Users\leoth\source\repos\LabProgramacion3\x64\Debug\LabProgramacion3.exe
